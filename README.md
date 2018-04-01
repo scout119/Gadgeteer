@@ -8,3 +8,8 @@
 
 Gadgeteer related files.
 
+
+1. Fork ![Fork Me](https://img.shields.io/github/forks/scout119/beamdasm.svg?style=social&label=Fork%20Me)
+
+![GitHub stars](https://img.shields.io/github/scout119/beamdasm/shields.svg?style=social&label=Stars)
+
